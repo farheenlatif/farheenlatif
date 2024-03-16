@@ -1,4 +1,4 @@
-![Data Science](https://github.com/farheenlatif/farheenlatif/blob/main/Untitled%20design.png)
+![Data Science](https://github.com/farheenlatif/farheenlatif/blob/main/profile.webp)
 
 # Hi there, I'm Farheen Latif 👋
 
