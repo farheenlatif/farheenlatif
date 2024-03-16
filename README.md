@@ -1,6 +1,6 @@
 ![Data Science](https://github.com/farheenlatif/farheenlatif/blob/main/Untitled%20design.png)
 
-#Hi there, I'm Farheen Latif 👋
+# Hi there, I'm Farheen Latif 👋
 
 ## About Me
 - 🔭 I’m currently working on web scraping projects and AI games in Python.
