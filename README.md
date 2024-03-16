@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate on innovative Data Science projects and cutting-edge AI solutions.
 - 🤔 I’m looking for help with advanced machine learning algorithms and their applications in real-world scenarios.
 - 💬 Ask me about anything related to Python, Data Analysis, ML and AI.
+- 🔍Explore my projects at [my GitHub repositories](https://github.com/farheenlatif?tab=repositories).
 - 📫 How to reach me: [farheenlatif8@gmail.com](mailto:farheenlatif8@gmail.com)
 - ⚡ Fun fact: I prefer my tea like my algorithms – complex and invigorating.
 
