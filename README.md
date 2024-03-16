@@ -1,4 +1,6 @@
-# Hi there, I'm Farheen Latif 👋
+![Data Science]()
+
+#Hi there, I'm Farheen Latif 👋
 
 ## About Me
 - 🔭 I’m currently working on web scraping projects and AI games in Python.
